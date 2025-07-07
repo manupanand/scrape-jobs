@@ -1,0 +1,5 @@
+/infopark/*csv
+/infopark/*.sum
+/technopark/*sum 
+/technopark/*.csv
+/*.csv
