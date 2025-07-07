@@ -3,3 +3,5 @@
 /technopark/*sum 
 /technopark/*.csv
 /*.csv
+/*.xlsx
+/*.sum
